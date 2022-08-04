@@ -1,7 +1,12 @@
-<h2> Hi, I'm Xuaii <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Xuaii <img src="https://github.com/xuaii/xuaii/blob/main/mar.png" width="50"></h2>
+<img align='right' src="https://github.com/xuaii/xuaii/blob/main/link.jpg" width="230">
 <p><em>Game Dev Beginner, A Students of <a href="https://www.cqu.edu.cn/">CQU</a>
 </em></p>
+
+[![](https://img.shields.io/static/v1?label=Github&message=xuaii&color=00D04E)](https://github.com/xuaii)
+[![](https://img.shields.io/static/v1?label=Blog&message=iland&color=FF3468)](https://xuaii.github.io)
+
+
 
 <p align="center">
   <a href="https://github.com/xuaii"><img src="https://github-readme-stats.vercel.app/api?username=xuaii&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
