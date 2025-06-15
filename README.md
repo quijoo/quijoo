@@ -1,6 +1,6 @@
 <h2> Hi, I'm _quijoo <img src="https://cdn.staticaly.com/gh/quijoo/quijoo/1.0/mar.png" width="50"></h2>
 <img align='right' src="https://cdn.staticaly.com/gh/quijoo/quijoo/1.0/link.jpg" width="230">
-<p><em>Graduated from Chongqing University<a href="https://www.cqu.edu.cn/">CQU</a>, Game Developer
+<p><em>Graduated from <a href="https://www.cqu.edu.cn/">Chongqing University</a>, Game Developer
 </em></p>
 
 [![](https://img.shields.io/static/v1?label=Github&message=quijoo&color=00D04E)](https://github.com/quijoo)
